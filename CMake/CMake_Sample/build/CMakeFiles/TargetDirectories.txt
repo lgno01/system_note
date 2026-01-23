@@ -1,0 +1,3 @@
+/home/ligang/A_Study/IDC_system/CMake/CMake_Sample/build/CMakeFiles/demo.dir
+/home/ligang/A_Study/IDC_system/CMake/CMake_Sample/build/CMakeFiles/edit_cache.dir
+/home/ligang/A_Study/IDC_system/CMake/CMake_Sample/build/CMakeFiles/rebuild_cache.dir
